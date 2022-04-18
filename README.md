@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Adrián Enríquez</h1>
 <h3 align="center">A passionate Data Science and Backend Developer from Ecuador</h3>
 
@@ -7,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adrián enríquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrián enríquez" height="30" width="40" /></a>
-<a href="https://fb.com/adrián enríquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adrián enríquez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adrián-enríquez-01317b217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrián-enríquez-01317b217" height="30" width="40" /></a>
+<a href="https://fb.com/adrian.enriquez.718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adrian.enriquez.718" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,4 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianenriquez4505&show_icons=true&locale=en&layout=compact" alt="adrianenriquez4505" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianenriquez4505&show_icons=true&locale=en" alt="adrianenriquez4505" /></p>
-
